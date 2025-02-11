@@ -1,2 +1,2 @@
 # MemoBot
-MemoryBot is an innovative robot capable of navigating and memorizing the path it has traveled. Using a web interface powered by the ESP8266, users can control the robot in real-time by sending commands.
+MemoryBot is an innovative robot capable of navigating and memorizing the path it has traveled. Using a web interface powered by the ESP8266, users can control the robot in real-time by sending commands such as "forward", "backward", "left", and "right". The robot stores each movement in its memory and can later retrace its exact path with high accuracy upon command. The system ensures a seamless user experience by leveraging real-time communication through Wi-Fi, allowing for full control of the robot remotely.
